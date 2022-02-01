@@ -102,7 +102,7 @@ def mking():
         open('.login.txt', 'w').write(sultani)
         raw_input(' %s\x1b[0;92m*%s Press enter to continue tools ' % (O, N))
         SA___SAWx404xx(sawx404)
-        os.system('xdg-open https://t.me/Saw1xx404xx')'piano:A3#'
+        os.system('xdg-open https://t.me/Saw1xx404xx')
         coment()
     except KeyError:
         print '%s[%s\x1b[0;92m!%s] token invalid' % (N, M, N)
