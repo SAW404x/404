@@ -140,7 +140,7 @@ def menu():
     print '\x1b[1;97m-------------------------------------------------'
     print ' [%s\x1b[0;92m 1 %s] GET ID FROM404 ID PUBLICK' % (O, N)
     time.sleep(0.03)
-    print ' [%s\x1b[0;92m 2 %s] START CRACK SAW ID PUBLICK' % (O, N)
+    print ' [%s\x1b[0;92m 2 %s] START CRACK SAW ID SAW PUBLICK' % (O, N)
     time.sleep(0.03)
     print ' [%s\x1b[0;92m 0 %s] LOGOUT (%sREMOVE TOKEN%s)' % (M, N, M, N)
     time.sleep(0.03)
